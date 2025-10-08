@@ -12,7 +12,7 @@ from telegram.ext import (
 
 # ================= CONFIG =================
 BOT_TOKEN = "8056017161:AAHtE3LeGjtKskiE2CMYyvJizs8T-FJ470M"  # Replace with your BotFather token
-WORD_LIMIT = 200
+WORD_LIMIT = 100
 SEND_WARNING = True
 # ==========================================
 
