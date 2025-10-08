@@ -11,7 +11,7 @@ from telegram.ext import (
 )
 
 # ================= CONFIG =================
-BOT_TOKEN = "PASTE_YOUR_NEW_TOKEN_HERE"  # Replace with your BotFather token
+BOT_TOKEN = "8056017161:AAHtE3LeGjtKskiE2CMYyvJizs8T-FJ470M"  # Replace with your BotFather token
 WORD_LIMIT = 200
 SEND_WARNING = True
 # ==========================================
